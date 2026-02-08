@@ -37,9 +37,7 @@ chemical-equipment-visualizer/
 
 ## Setup Instructions
 
-### 1. Backend (Django)
-
-```bash
+### 1 . Backend(Django)
 cd backend
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -79,5 +77,6 @@ Deployment of web version on cloud platform
 Author
 Developed by Lajari Shinde as part of the FOSSEE Internship Screening Task.
  
+
 
 
