@@ -58,15 +58,14 @@ http://localhost:3000/
 ### 3. Desktop App(PyQt5)
 python desktop_app.py
 
-##Sample CSV
+## Sample CSV
 Use the provided sample_equipment_data.csv file for testing.
-Demo
 
-A short demo video (2–3 minutes) is recorded to show:
+## A short demo video (2–3 minutes) is recorded to show:
 
-Backend API running
-Web app uploading CSV and showing chart
-Desktop app displaying same analytics
+- Backend API running
+- Web app uploading CSV and showing chart
+- Desktop app displaying same analytics
 
 ## Future Enhancements
 User authentication and role-based access
@@ -77,6 +76,7 @@ Deployment of web version on cloud platform
 Author
 Developed by Lajari Shinde as part of the FOSSEE Internship Screening Task.
  
+
 
 
 
