@@ -55,7 +55,7 @@ npm start
 Web app will run at:
 http://localhost:3000/
 
-## Desktop App(PyQt5)
+### 3. Desktop App(PyQt5)
 python desktop_app.py
 
 ##Sample CSV
@@ -68,7 +68,7 @@ Backend API running
 Web app uploading CSV and showing chart
 Desktop app displaying same analytics
 
-Future Enhancements
+## Future Enhancements
 User authentication and role-based access
 Advanced filtering and search on equipment data
 Export charts and summaries as PDF from frontend
@@ -77,6 +77,7 @@ Deployment of web version on cloud platform
 Author
 Developed by Lajari Shinde as part of the FOSSEE Internship Screening Task.
  
+
 
 
 
